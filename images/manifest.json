@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in squarepegroundworld/TMDRAprojectbaby project"
+        ]
+    },
+    "items": []
+}
