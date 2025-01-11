@@ -1,0 +1,76 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/maniupdate.json",
+  "@type" : "sc:Manifest",
+  "label" : "MANIFEST FOR TMDRA PROJECT",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "MANIFEST WITH MULTIPLY CANVAS FOR THE ANNOTATION PROJECT OF TMDRA COURSE",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "PEGAH KHANI, HOSSEIN EBRAHIMI",
+  "sequences" : [ {
+    "@id" : "http://bb8177be-750d-46e8-98e2-4c1719640aeb",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://d6a0db6e-6dc1-4a20-a496-14b74e582e62",
+      "@type" : "sc:Canvas",
+      "label" : "RAIBOW",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6339a5d5-2753-469d-bad0-de0992c94bca",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/IMG_3112/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/IMG_3112",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://d6a0db6e-6dc1-4a20-a496-14b74e582e62"
+      } ],
+      "related" : "",
+      "metadata" : [ ]
+    }, {
+      "@id" : "http://ea8c08f9-8d67-452a-86f6-82d20ca94699",
+      "@type" : "sc:Canvas",
+      "label" : "HOUSE ON THE WALL",
+      "height" : 4032,
+      "width" : 3024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e26462fe-47fc-4400-92c2-69a7dd090a0f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/IMG_1053/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/IMG_1053",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4032,
+          "width" : 3024
+        },
+        "on" : "http://ea8c08f9-8d67-452a-86f6-82d20ca94699"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
