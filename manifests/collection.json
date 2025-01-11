@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/manifest.json",
     "label" : "rainbow"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/maniupdate.json",
+    "label" : "MANIFEST FOR TMDRA PROJECT"
   } ]
 }
