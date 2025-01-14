@@ -414,6 +414,87 @@
             ]
         },
         {
+            "id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/birmingham-museums-trust-rK032l3XPNc-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "birmingham-museums-trust-rK032l3XPNc-unsplash"
+                ]
+            },
+            "height": 3604,
+            "width": 2727,
+            "items": [
+                {
+                    "id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/birmingham-museums-trust-rK032l3XPNc-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/birmingham-museums-trust-rK032l3XPNc-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/birmingham-museums-trust-rK032l3XPNc-unsplash/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 86,
+                                                "height": 113
+                                            },
+                                            {
+                                                "width": 171,
+                                                "height": 226
+                                            },
+                                            {
+                                                "width": 341,
+                                                "height": 451
+                                            },
+                                            {
+                                                "width": 682,
+                                                "height": 901
+                                            },
+                                            {
+                                                "width": 1364,
+                                                "height": 1802
+                                            },
+                                            {
+                                                "width": 2727,
+                                                "height": 3604
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2727,
+                                        "@id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/birmingham-museums-trust-rK032l3XPNc-unsplash",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3604,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/birmingham-museums-trust-rK032l3XPNc-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/IMG_1053/canvas/",
             "type": "Canvas",
             "label": {
