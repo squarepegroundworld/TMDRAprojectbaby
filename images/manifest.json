@@ -252,6 +252,87 @@
             ]
         },
         {
+            "id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/rodrigo-rodrigues-wolf-r-t-YkgbrcRdBWU-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "rodrigo-rodrigues-wolf-r-t-YkgbrcRdBWU-unsplash"
+                ]
+            },
+            "height": 5844,
+            "width": 3896,
+            "items": [
+                {
+                    "id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/rodrigo-rodrigues-wolf-r-t-YkgbrcRdBWU-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/rodrigo-rodrigues-wolf-r-t-YkgbrcRdBWU-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/rodrigo-rodrigues-wolf-r-t-YkgbrcRdBWU-unsplash/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 122,
+                                                "height": 183
+                                            },
+                                            {
+                                                "width": 244,
+                                                "height": 366
+                                            },
+                                            {
+                                                "width": 487,
+                                                "height": 731
+                                            },
+                                            {
+                                                "width": 974,
+                                                "height": 1461
+                                            },
+                                            {
+                                                "width": 1948,
+                                                "height": 2922
+                                            },
+                                            {
+                                                "width": 3896,
+                                                "height": 5844
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3896,
+                                        "@id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/rodrigo-rodrigues-wolf-r-t-YkgbrcRdBWU-unsplash",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 5844,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/rodrigo-rodrigues-wolf-r-t-YkgbrcRdBWU-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/carina-horn-7oO600mVXyg-unsplash/canvas/",
             "type": "Canvas",
             "label": {
