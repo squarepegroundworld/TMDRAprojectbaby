@@ -736,6 +736,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/kelly-jean-cKjbI0Y00X0-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "kelly-jean-cKjbI0Y00X0-unsplash"
+                ]
+            },
+            "height": 3744,
+            "width": 5616,
+            "items": [
+                {
+                    "id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/kelly-jean-cKjbI0Y00X0-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/kelly-jean-cKjbI0Y00X0-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/kelly-jean-cKjbI0Y00X0-unsplash/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 176,
+                                                "height": 117
+                                            },
+                                            {
+                                                "width": 351,
+                                                "height": 234
+                                            },
+                                            {
+                                                "width": 702,
+                                                "height": 468
+                                            },
+                                            {
+                                                "width": 1404,
+                                                "height": 936
+                                            },
+                                            {
+                                                "width": 2808,
+                                                "height": 1872
+                                            },
+                                            {
+                                                "width": 5616,
+                                                "height": 3744
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5616,
+                                        "@id": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/kelly-jean-cKjbI0Y00X0-unsplash",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3744,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/kelly-jean-cKjbI0Y00X0-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
