@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 215,
+    "height" : 143
+  }, {
+    "width" : 429,
+    "height" : 286
+  }, {
+    "width" : 858,
+    "height" : 572
+  }, {
+    "width" : 1715,
+    "height" : 1143
+  }, {
+    "width" : 3429,
+    "height" : 2286
+  }, {
+    "width" : 6858,
+    "height" : 4572
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6858,
+  "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/le-sixieme-reve-gnx_-muR0uw-unsplash",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4572
+}
