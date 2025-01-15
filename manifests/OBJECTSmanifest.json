@@ -1,0 +1,101 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/OBJECTSmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Objects",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "manifest for canvas containing random objects",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Pegah Khani, Hossein Ebrahimi",
+  "sequences" : [ {
+    "@id" : "http://93bf59be-539f-4b54-8a01-88ea5c8d70a7",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://9f31803a-4d74-43b9-b9f5-f967bf1b1994",
+      "@type" : "sc:Canvas",
+      "label" : "STATIONARY",
+      "height" : 3744,
+      "width" : 5616,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3cd04caa-fc27-4408-bf5e-7608110a06bd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/kelly-jean-cKjbI0Y00X0-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/kelly-jean-cKjbI0Y00X0-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3744,
+          "width" : 5616
+        },
+        "on" : "http://9f31803a-4d74-43b9-b9f5-f967bf1b1994"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1c7a23dd-3a5a-4f05-9c72-056fc080a37a",
+      "@type" : "sc:Canvas",
+      "label" : "CUPCAKES",
+      "height" : 3727,
+      "width" : 5590,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://849d72ee-9796-452c-9650-84f1e97f01ef",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/carina-horn-7oO600mVXyg-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/carina-horn-7oO600mVXyg-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3727,
+          "width" : 5590
+        },
+        "on" : "http://1c7a23dd-3a5a-4f05-9c72-056fc080a37a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1e6ebe0a-753c-4d87-8b26-01fb27cd478c",
+      "@type" : "sc:Canvas",
+      "label" : "PAINTING",
+      "height" : 3604,
+      "width" : 2727,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c5c405c7-6ca1-4552-912b-c040e1684545",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/birmingham-museums-trust-rK032l3XPNc-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/birmingham-museums-trust-rK032l3XPNc-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3604,
+          "width" : 2727
+        },
+        "on" : "http://1e6ebe0a-753c-4d87-8b26-01fb27cd478c"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
