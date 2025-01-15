@@ -1,0 +1,75 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/ANIMALmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Animals",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "manifest for canvas containing animals",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Pegah Khani, Hossein Ebrahimi",
+  "sequences" : [ {
+    "@id" : "http://2744f2ac-91b7-48a6-9965-e6c0e6adf1a3",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://f62736c6-b730-44be-96df-86d6b00431a7",
+      "@type" : "sc:Canvas",
+      "label" : "SWAN",
+      "height" : 4032,
+      "width" : 3024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f92a905a-3d32-4a05-b471-729361afa9b5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/SWAN/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/SWAN",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4032,
+          "width" : 3024
+        },
+        "on" : "http://f62736c6-b730-44be-96df-86d6b00431a7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e6c0629f-4998-457c-9d96-5fdea656612c",
+      "@type" : "sc:Canvas",
+      "label" : "CAT",
+      "height" : 6240,
+      "width" : 4160,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6e2e2889-4aae-4242-baf7-63bdbff704bb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/jovan-vasiljevic-QUrbVGzkJIU-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/jovan-vasiljevic-QUrbVGzkJIU-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6240,
+          "width" : 4160
+        },
+        "on" : "http://e6c0629f-4998-457c-9d96-5fdea656612c"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
