@@ -29,5 +29,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/OBJECTSmanifest.json",
     "label" : "Objects"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/VEHICLEmanifest.json",
+    "label" : "VehicleS"
   } ]
 }
