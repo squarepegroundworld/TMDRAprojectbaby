@@ -1,0 +1,75 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/VEHICLEmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "VehicleS",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "manifest for canvas containing vehicles",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Pegah Khani, Hossein Ebrahimi",
+  "sequences" : [ {
+    "@id" : "http://7852e1bf-a7c7-47e4-8ff6-f4bba508022f",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://c2a06d35-51ed-40ca-8393-c4e45b19c6dc",
+      "@type" : "sc:Canvas",
+      "label" : "MOTORCYCLE",
+      "height" : 5844,
+      "width" : 3896,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8a53ee16-0871-4f17-9ab8-0104df660466",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/rodrigo-rodrigues-wolf-r-t-YkgbrcRdBWU-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/rodrigo-rodrigues-wolf-r-t-YkgbrcRdBWU-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5844,
+          "width" : 3896
+        },
+        "on" : "http://c2a06d35-51ed-40ca-8393-c4e45b19c6dc"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://623e1446-2a86-433c-8122-62bfaecf44fb",
+      "@type" : "sc:Canvas",
+      "label" : "AIRPLANE",
+      "height" : 2712,
+      "width" : 4073,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://77672b98-b879-4231-bf8e-5354a5c4124d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/daniel-eledut-jJbikY6YUOc-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/daniel-eledut-jJbikY6YUOc-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2712,
+          "width" : 4073
+        },
+        "on" : "http://623e1446-2a86-433c-8122-62bfaecf44fb"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
