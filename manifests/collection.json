@@ -25,5 +25,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/LANDSCAPESmanifest.json",
     "label" : "Landscape"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/OBJECTSmanifest.json",
+    "label" : "Objects"
   } ]
 }
