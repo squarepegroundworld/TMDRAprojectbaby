@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/maniupdate.json",
     "label" : "MANIFEST FOR TMDRA PROJECT"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/ANIMALmanifest.json",
+    "label" : "Animals"
   } ]
 }
