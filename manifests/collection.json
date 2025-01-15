@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/ANIMALmanifest.json",
     "label" : "Animals"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/VEHICLESmanifest.json",
+    "label" : "Vehicles "
   } ]
 }
