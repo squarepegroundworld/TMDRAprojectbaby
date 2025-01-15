@@ -1,0 +1,101 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/LANDSCAPESmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Landscape",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "manifest for canvas containing landscapes",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Pegah Khani, Hossein Ebrahimi",
+  "sequences" : [ {
+    "@id" : "http://9a454029-e5e6-4f0f-b1a2-9ff9f17cc5ed",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://d86c3de0-90af-4390-a662-1f2d5071dcf7",
+      "@type" : "sc:Canvas",
+      "label" : "GUARDHOUSE",
+      "height" : 4032,
+      "width" : 3024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8433b991-72a9-4780-bc05-5856f073a41a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/IMG_1053/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/IMG_1053",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4032,
+          "width" : 3024
+        },
+        "on" : "http://d86c3de0-90af-4390-a662-1f2d5071dcf7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://87191cb9-c8c5-49ec-a536-d760538bfc89",
+      "@type" : "sc:Canvas",
+      "label" : "RAINBOW",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://11eec119-f964-4e0c-9814-6fc69b93a5eb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/IMG_3112/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/IMG_3112",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://87191cb9-c8c5-49ec-a536-d760538bfc89"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8ef58b46-b4fb-44f6-8aaf-7c86ad5e5893",
+      "@type" : "sc:Canvas",
+      "label" : "LAVENDER FIELD",
+      "height" : 4572,
+      "width" : 6858,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ece85d87-d3ff-4fe8-a1dd-632e8615fc79",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/le-sixieme-reve-gnx_-muR0uw-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/images/le-sixieme-reve-gnx_-muR0uw-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4572,
+          "width" : 6858
+        },
+        "on" : "http://8ef58b46-b4fb-44f6-8aaf-7c86ad5e5893"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
