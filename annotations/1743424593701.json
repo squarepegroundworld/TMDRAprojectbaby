@@ -1,0 +1,48 @@
+{
+  "@type" : "sc:Collection",
+  "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/194554326",
+  "members" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/OBJECTSmanifest.json",
+    "label" : "Objects"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/VEHICLEmanifest.json",
+    "label" : "VehicleS"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/ANIMALmanifest.json",
+    "label" : "Animals"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/LANDSCAPESmanifest.json",
+    "label" : "Landscape"
+  } ],
+  "manifests" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/OBJECTSmanifest.json",
+    "label" : "Objects"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/VEHICLEmanifest.json",
+    "label" : "VehicleS"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/ANIMALmanifest.json",
+    "label" : "Animals"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/manifests/LANDSCAPESmanifest.json",
+    "label" : "Landscape"
+  } ],
+  "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/annotations/1743424593701.json",
+  "label" : "TMDRAproject",
+  "@context" : [ {
+    "dcterms" : "http://purl.org/dc/terms/",
+    "dcterms:creator" : {
+      "@type" : "@id",
+      "@id" : "dcterms:creator"
+    }
+  }, "http://iiif.io/api/presentation/2/context.json" ],
+  "dc:identifier" : "6b8cee65e8f9fc6586477679d31bf7a5"
+}
