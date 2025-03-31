@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://squarepegroundworld.github.io/TMDRAprojectbaby/annotations/1743424593701.json" ],
+  "otherContent" : [ ],
   "@id" : "https://squarepegroundworld.github.io/TMDRAprojectbaby/annotations/collection.json",
   "label" : "All annotations loaded in squarepegroundworld/TMDRAprojectbaby project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
